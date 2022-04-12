@@ -1,0 +1,19 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "React eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Arnaldo Borda <aborda001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
